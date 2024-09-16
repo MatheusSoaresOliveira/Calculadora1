@@ -61,7 +61,7 @@ class Program
 
         Console.WriteLine($"A soma dos valores é : {resultado}"); // Exibe o valor e converte a string lida para double
                                                                   //Console.WriteLine("A soma dos valores é : " + resultado);
-
+                                                                  //aa
         Console.ReadKey();
         Menu();
     }
